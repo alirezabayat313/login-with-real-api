@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Vazir";
+    src: url('../fonts/Vazir.woff');
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: "Vazir";
+}
+header{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    background: rgb(66, 64, 64);
+    color: white;
+}
